@@ -20,7 +20,12 @@ Windows-only
 ============
 
 This only works on Windows. It should be trivial to alter the script to work on other platforms.
- 
+
+Other Tools
+=======
+
+[Restic](https://github.com/restic/restic/) is a relevant Linux tool.
+
 License
 =======
 
